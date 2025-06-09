@@ -145,13 +145,13 @@ else:
 
 📌Sample Output:
 
-->Weather is overcast clouds
+->Weather is clear sky
 
-->Current Temperature is 32.29
+->Current Temperature is 41.18
 
-->Current Temperature Feels like is 39.29
+->Current Temperature Feels like is 40.73
 
-->Humidity is 80
+->Humidity is 19
 
 And a bar chart with three bars showing Temperature, Feels Like temperature, and Humidity.
 
@@ -161,3 +161,4 @@ Connects to an external API to get live data.Parses JSON weather data.Visualizes
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/5e2b54ed-6039-43d0-a55c-e76c3471d0a0)
